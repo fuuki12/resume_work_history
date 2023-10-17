@@ -1,0 +1,24 @@
+{
+  "name": "resume_work_history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint . && markdownlint docs/*.md",
+    "build:pdf": "md-to-pdf docs/*.md --config-file ./pdf-configs/config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@proofdict/textlint-rule-proofdict": "^3.1.2",
+    "@textlint-ja/textlint-rule-no-dropping-i": "^2.0.1",
+    "markdownlint-cli": "^0.37.0",
+    "md-to-pdf": "^5.2.4",
+    "textlint": "^13.3.3",
+    "textlint-rule-no-doubled-joshi": "^4.1.0",
+    "textlint-rule-no-dropping-the-ra": "^3.0.0",
+    "textlint-rule-preset-ja-spacing": "^2.3.0",
+    "pnpm": "^6.14.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "@textlint-ja/no-dropping-i": true,
+    "no-doubled-joshi": true,
+    "no-dropping-the-ra": true,
+    "preset-ja-spacing": false,
+    "@textlint-ja/textlint-rule-no-dropping-i": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    }
+  }
+}
