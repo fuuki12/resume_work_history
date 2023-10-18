@@ -1,8 +1,6 @@
 # 履歴書
 
-## TODO
-
-<img src="https://example.com/img/example.jpg" width="300px" alt="顔写真">
+<img src="../asset/me.jpg" width="300px" alt="顔写真">
 
 ## 氏名
 
