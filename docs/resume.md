@@ -1,6 +1,6 @@
 # 履歴書
 
-<img src="../asset/me.jpg" width="300px" alt="顔写真">
+<img src="/asset/me.jpg" width="300px" alt="顔写真">
 
 ## 氏名
 
