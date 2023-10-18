@@ -1,6 +1,6 @@
 # 履歴書
 
-<img src="/asset/me.jpg" width="300px" alt="顔写真">
+<img src="https://github.com/fuuki12/resume_work_history/blob/main/asset/me.jpg?raw=true" width="300px" alt="顔写真">
 
 ## 氏名
 
